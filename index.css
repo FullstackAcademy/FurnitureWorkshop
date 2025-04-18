@@ -1,0 +1,25 @@
+.Furniture{
+    color: darkred;
+    margin: 25px;
+    padding: 25px;
+    background-color: antiquewhite;
+}
+h1{
+    color:darkred;
+    background-color: antiquewhite;
+    padding: 25px 50px 25px 50px;
+    text-align: center;
+}
+.add{
+    background-color: beige;
+    padding: 5px 15px 5px 15px;
+    cursor: pointer;
+}
+body{
+    font-family: Arial ;
+    background-color: darkolivegreen;
+    color: antiquewhite;
+}
+.add:hover{
+    background-color: darkseagreen;
+}
